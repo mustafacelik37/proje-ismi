@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "crmprojesi", "crmprojesi\crmprojesi.csproj", "{5D28D020-5605-4154-9911-3EBE814D922F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{39C8B41A-0841-4379-96CD-35A571A4E821}"
+	ProjectSection(SolutionItems) = preProject
+		deneme.css = deneme.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D28D020-5605-4154-9911-3EBE814D922F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D28D020-5605-4154-9911-3EBE814D922F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D28D020-5605-4154-9911-3EBE814D922F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D28D020-5605-4154-9911-3EBE814D922F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9732A856-0684-473D-B330-49C22820C9DF}
+	EndGlobalSection
+EndGlobal
